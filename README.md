@@ -1,4 +1,4 @@
-# Deep Learning IO Benchmark
+# Deep Leaning I/O Toolkit
 The goal of this project is to simulate a deep learning training job load on a storage device.
 
 ## Requirements
